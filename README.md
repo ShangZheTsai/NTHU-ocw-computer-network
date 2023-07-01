@@ -10,6 +10,6 @@
 | 03 | [第3講-IEEE 802.11 無線區域網路 (Wireless LAN)](https://hackmd.io/@-rcztUDRS2uecBXqGnbHiA/Hk2Q7pBHn)
 | 04 | [第4講-IEEE 802.1D 交換機的擴張樹演算法 (Spanning Tree Algorithm)](https://hackmd.io/@-rcztUDRS2uecBXqGnbHiA/BJ7hqBeIn)
 | 05 | [第5講-IEEE 802.1Q 虛擬區域網路 (Virtual LAN)](https://hackmd.io/@-rcztUDRS2uecBXqGnbHiA/rkEjTDIun)
-| 06 | [第6講-區域網路可靠傳輸技術-滑動視窗技術L06 7](https://hackmd.io/@-rcztUDRS2uecBXqGnbHiA/SkRFDenu3)
+| 06 | [第6講-區域網路可靠傳輸技術-滑動視窗技術](https://hackmd.io/@-rcztUDRS2uecBXqGnbHiA/SkRFDenu3)
 | 07 | 第7講
 | 08 | 第8講
