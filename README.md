@@ -1,7 +1,7 @@
 # 清大計算機網路ocw
 [課程](https://www.youtube.com/playlist?list=PLS0SUwlYe8cwqVK1W3cs5zrdChpWA1ooB)
 
-清大計算機網路ocw筆記
+# 筆記
 
 | # | 章節 
 | -------- | -------- 
