@@ -11,5 +11,5 @@
 | 04 | [第4講-IEEE 802.1D 交換機的擴張樹演算法 (Spanning Tree Algorithm)](https://hackmd.io/@-rcztUDRS2uecBXqGnbHiA/BJ7hqBeIn)
 | 05 | [第5講-IEEE 802.1Q 虛擬區域網路 (Virtual LAN)](https://hackmd.io/@-rcztUDRS2uecBXqGnbHiA/rkEjTDIun)
 | 06 | [第6講-區域網路可靠傳輸技術-滑動視窗技術](https://hackmd.io/@-rcztUDRS2uecBXqGnbHiA/SkRFDenu3)
-| 07 | 第7講
+| 07 | [第7講-路由器運作原理以及網路互連技術](https://hackmd.io/@-rcztUDRS2uecBXqGnbHiA/SywtVeZKh)
 | 08 | 第8講
